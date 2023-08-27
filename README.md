@@ -1,6 +1,6 @@
 ### Hi there 👋
 
 
-- :coffee: I’m currently learning Mobile Development, Web Development, UI/UX and Machine Learning.
+- :coffee: Currently learning in Mobile and Web Development.
 - :point_right: I'm open to any advice to help me get better.
 
