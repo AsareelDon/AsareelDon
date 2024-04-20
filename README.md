@@ -1,4 +1,4 @@
-# 👋 Hi! I'm Asareel Don:
+# 👋 Hi! I'm Asareel Don
 
 🔭 I’m currently working on my Academic Project Real-time Monitoring System.<br>🤝 I’m looking for mentorship to improve my current coding skills and problem-solving skills.<br>🌱 I’m currently learning UI/UX, MERN stack and Machine Learning
 
